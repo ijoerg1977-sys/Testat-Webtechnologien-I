@@ -17,7 +17,7 @@ p {
 nav ul li a {
   text-decoration: none;
   color: green;
-  font-size: 1.6em;
+  font-size: 1em;
   font-weight: bold;
   font-family:Arial,Helvetica,sans-serif
 }
@@ -85,6 +85,21 @@ h1 {
 }
 
 .course {
+    font-weight: bold;
+    color: #4CAF50;
+    font-size: 16px;
+    display: block;
+    margin-top: 1px;
+}
+.job {
+    width:100%;
+    font-weight: bold;
+    color: #A52A2A;
+    font-size: 16px;
+    display: block;
+    margin-top: 1px;
+}
+.firma {
     font-weight: bold;
     color: #4CAF50;
     font-size: 16px;
